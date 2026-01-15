@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ana Caroline — Frontend (React/Next + TypeScript)
 
-<!--
-**anacarolineolv/anacarolineolv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construo interfaces com foco em produto: **clareza, UX, performance e qualidade de código**.
 
-Here are some ideas to get you started:
+## O que eu faço
+- Frontend com **React/Next** e **TypeScript**
+- Integração com APIs, autenticação, SSR e boas práticas
+- Projetos técnicos aplicados: **testes, arquitetura, performance e DX**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+> (em construção) Vou fixar aqui meus 3–6 melhores projetos assim que estiverem prontos.
+
+## Como falar comigo
+- LinkedIn: www.linkedin.com/in/ana-caroline-de-oliveira-65b186296
