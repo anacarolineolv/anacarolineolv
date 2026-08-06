@@ -64,4 +64,4 @@ contribuir com minha experiência em desenvolvimento web e continuar evoluindo
 em front-end, back-end, APIs e bancos de dados.
 
 ## Como falar comigo
-- LinkedIn: www.linkedin.com/in/anacarolineolv2
+- [LinkedIn](https://www.linkedin.com/in/anacarolineolv2)
