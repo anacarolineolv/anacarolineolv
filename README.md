@@ -63,8 +63,5 @@ Busco uma oportunidade remota como Desenvolvedora Júnior, na qual possa
 contribuir com minha experiência em desenvolvimento web e continuar evoluindo
 em front-end, back-end, APIs e bancos de dados.
 
-## Projetos em destaque
-> (em construção) Vou fixar aqui meus 3–6 melhores projetos assim que estiverem prontos.
-
 ## Como falar comigo
 - LinkedIn: www.linkedin.com/in/anacarolineolv2
